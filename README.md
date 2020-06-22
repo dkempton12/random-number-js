@@ -1,1 +1,1 @@
-This **randomNumber** function returns a random number between a range of a min and max value.  The **Math.random() ** method is being used as the default random multiplier argument.
+This **randomNumber** function returns a random number between a range of a min and max value.  The **Math.random()** method is being used as the default random multiplier argument.
