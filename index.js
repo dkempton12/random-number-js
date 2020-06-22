@@ -1,3 +1,3 @@
-const randomNumber = (min, max, randomNumber = Math.random()) => randomNumber * (max - min) + min;
+const randomNumber = (min, max, randomMultiplier = Math.random()) => randomMultiplier * (max - min) + min;
 
 randomNumber(20, 100);
